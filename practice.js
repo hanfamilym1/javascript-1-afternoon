@@ -57,6 +57,12 @@ function doubleCheck(arr){
   } return arr;
 }
 
+// we can do this instead of a for loop.
+//  if(arr.includes('chocolate'){
+//   return arr
+//   } arr.push('chocolate')
+//   return arr}
+
 //////////////////PROBLEM 5////////////////////
 
 //Create an object saved to the variable dog.
@@ -137,6 +143,7 @@ function add (num1,num2){
 
 //Code Here
 var mathSum = add(3,4);
+// let mathSum = math(3,4,add)
 
 //////////////////PROBLEM 8////////////////////
 
